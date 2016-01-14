@@ -4,6 +4,8 @@ la finalidad de proteger a ambas partes, cliente y proveedor.
 Esta orientado a empresas dedicadas al desarrollo de páginas web,
 community management y creación de apps principalmente.
 
+Esperamos nos puedan apoyar a seguir mejorando este proyecto :)
+
 ---
 
 # Contrato de Prestación de Servicios
