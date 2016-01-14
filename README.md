@@ -1,6 +1,14 @@
+# Introducción
+Se realizó un bosquejo de un Contrato de Prestación de Servicios, con
+la finalidad de proteger a ambas partes, cliente y proveedor.
+Esta orientado a empresas dedicadas al desarrollo de páginas web,
+community management y creación de apps principalmente.
+
+---
+
 # Contrato de Prestación de Servicios
 
-Puebla, Pue. a _________________
+[Ingresa tu Ciudad y Estado] a [ingresa la fecha actual]
 
 
 CONTRATO DE PRESTACIÓN DE SERVICIOS QUE CELEBRAN POR UNA PARTE **“________”**, REPRESENTADA EN ESTE ACTO POR  **___________** , A QUIEN EN LO SUCESIVO SE LE DENOMINARÁ “**EL PROVEEDOR**” Y POR LA OTRA **____________________________________**, REPRESENTADA EN ESTE ACTO POR **_______________**, Y A QUIEN EN LO SUCESIVO SE LE DENOMINARÁ “**EL CLIENTE**”.
